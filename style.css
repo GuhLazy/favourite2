@@ -1,0 +1,10 @@
+body{
+  text-align:center;
+  background: linear-gradient(purple, pink);
+}
+
+#Aesthetic {
+ width:450px;
+  height:450px;
+ Border-radius:200px;
+}
